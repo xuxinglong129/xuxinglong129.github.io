@@ -120,17 +120,6 @@
     
     
     <entry>
-      <title>照片</title>
-      <link href="/image/index.html"/>
-      <url>/image/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>友链</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
@@ -169,6 +158,17 @@
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的相册</title>
+      <link href="/gallery/index.html"/>
+      <url>/gallery/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://z1.ax1x.com/2023/04/23/p9epF3t.jpg"><br><img src="https://z1.ax1x.com/2023/04/23/p9epi9I.jpg"><br><img src="https://z1.ax1x.com/2023/04/23/p9epF3t.jpg"><br><img src="https://z1.ax1x.com/2023/04/23/p9epi9I.jpg"></p>          </div>]]></content>
       
     </entry>
     
